@@ -1,0 +1,11 @@
+.plugin_instructions *{
+	text-align: center;
+}
+div.instructions_content p{
+	font-size: 15px;
+	text-align: center;
+}
+div.plugin_instructions {
+	width: 600px;
+	margin: auto;
+}
